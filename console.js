@@ -6,3 +6,5 @@ console.log("Hello World");//second time
 fuction main(){
   return null;
 }
+
+main();
